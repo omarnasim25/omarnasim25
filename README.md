@@ -3,7 +3,7 @@
 
 ---
 
-👌Hi, I’m a _**Senior Software Engineer**_ with 10 years of experience, specializing in _**C#**_ and _**.NET**_ to build scalable, high-performance web applications. I create seamless, responsive user experiences using Angular and React, ensuring modern and dynamic frontends. On the DevOps side, I leverage Docker, Kubernetes, Azure DevOps and GitHub Actions to build CI/CD pipelines and manage cloud infrastructure across Azure, AWS and GCP. My expertise in RESTful APIs, PostgreSQL, Redis, and Elasticsearch enhances backend performance and data efficiency. Passionate about clean code, TDD, and scalable architectures, I thrive in Agile environments, always delivering innovative and efficient software solutions.👍  
+👌 I’m a Senior Software Engineer with 10+ years of experience building scalable, high-performance web applications across Fintech, SaaS, Healthcare, E-commerce and etc. Specialized in _**JavaScript**_, _**TypeScript**_, _**React.js**_, _**Next.js**_, _**Angular**_, _**React Native**_, _**Node.js**_, _**Express.js**_, and _**NestJS**_, with deep expertise in microservices and serverless architectures. Proven ability to deliver modular, low-latency systems using Microservices, Clean Architecture, real-time APIs, and cloud-native patterns. Skilled in CI/CD automation, Docker, Kubernetes, and cloud platforms like AWS. Adept at leading cross-functional teams, mentoring developers, and aligning technical strategy with product goals.👍  
 
 ---
 
