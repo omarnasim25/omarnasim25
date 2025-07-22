@@ -94,8 +94,8 @@
 </div>
 
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=lightningdev447&show_icons=true&count_private=true&theme=algolia"/>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningdev447&layout=compact&theme=algolia&count_private=true" /> 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=omarnasim25&show_icons=true&count_private=true&theme=algolia"/>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnasim25&layout=compact&theme=algolia&count_private=true" /> 
 <img height="150px" />
 <br/>  
 
