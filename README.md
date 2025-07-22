@@ -3,7 +3,7 @@
 
 ---
 
-👌 I’m a Senior Software Engineer with 10+ years of experience building scalable, high-performance web applications across Fintech, SaaS, Healthcare, E-commerce and etc. Specialized in _**JavaScript**_, _**TypeScript**_, _**React.js**_, _**Next.js**_, _**Angular**_, _**React Native**_, _**Node.js**_, _**Express.js**_, and _**NestJS**_, with deep expertise in microservices and serverless architectures. Proven ability to deliver modular, low-latency systems using Microservices, Clean Architecture, real-time APIs, and cloud-native patterns. Skilled in CI/CD automation, Docker, Kubernetes, and cloud platforms like AWS. Adept at leading cross-functional teams, mentoring developers, and aligning technical strategy with product goals.👍  
+👌 I’m a Senior Software Engineer with 10+ years of experience building scalable, high-performance web applications across Fintech, SaaS, Healthcare, E-commerce and etc. Specialized in _**JavaScript**_, _**TypeScript**_, _**React.js**_, _**Next.js**_, _**Angular**_, _**React Native**_, _**Node.js**_, _**Express.js**_, and _**NestJS**_, with deep expertise in microservices and serverless architectures. Proven ability to deliver modular, low-latency systems using Microservices, Clean Architecture, real-time APIs, and cloud-native patterns. Skilled in CI/CD automation, Docker, Kubernetes, and cloud platforms like _**AWS**_ and _**GCP**_. Adept at leading cross-functional teams, mentoring developers, and aligning technical strategy with product goals.👍  
 
 ---
 
